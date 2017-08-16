@@ -1,0 +1,5 @@
+# .yml bootstrap configuration file
+---
+spring:
+  application:
+    name: cloud-client-server-four
