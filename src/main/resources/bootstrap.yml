@@ -2,4 +2,4 @@
 ---
 spring:
   application:
-    name: cloud-client-server-four
+    name: cloud-client-eureka-four
